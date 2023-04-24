@@ -1,5 +1,5 @@
 # SuperStore_Sales_time_series_Project
-Use SQL to analyze time-series data from sales of Super Store
+Use SQL to analyze time-series data from sales of Super Store & create PowerBI sales dashboard over time series
 
 
 # Time Series Analysis
@@ -9,7 +9,8 @@ Use the SuperStore Time Series Dataset to work on this project.
 The dataset contains 20 columns, namely, Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, and City.
 
 ## Skills Used:
-creating temp table, CTE with clause, aggregation, Windows funstion(RANK LEAD LAG SUM()over ...), moving average, rolling avg, time/date/month convert format
+   --Creating temp table, CTE with clause, aggregation, Windows funstion(RANK LEAD LAG SUM()over ...), moving average, rolling avg, time/date/month convert format
+   --Creating PowerBI Sales overview Dashboard to display the sales matrix (by time, location, product, customers)
 
 ## Project task:
 
@@ -22,4 +23,5 @@ creating temp table, CTE with clause, aggregation, Windows funstion(RANK LEAD LA
   7. Calculate the growth% by monthly, yearly sales
   8. Analyze the customers by segment, location, sales
   9. Analyze the products by catogory, ship mode
+  10. Build a PowerBI dashboard for Sales over time serie
   
