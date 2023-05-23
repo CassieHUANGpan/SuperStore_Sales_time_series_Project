@@ -25,3 +25,5 @@ The dataset contains 20 columns, namely, Row ID, Order ID, Order Date, Ship Date
   9. Analyze the products by catogory, ship mode
   10. Build a PowerBI dashboard for Sales over time serie
   
+![Super Store Sales Dashboard_1](https://github.com/CassieHUANGpan/SuperStore_Sales_time_series_Project/assets/117584592/cb3592dd-c840-4902-81e3-04f73e37764e)
+![Super Store Sales Dashboard_2](https://github.com/CassieHUANGpan/SuperStore_Sales_time_series_Project/assets/117584592/20179589-0bf8-4924-9eed-a71102e0ceb3)
